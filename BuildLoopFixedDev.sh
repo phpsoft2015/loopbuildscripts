@@ -87,7 +87,7 @@ do
         "Loop dev")
             FORK_NAME=Loop
             REPO=https://github.com/LoopKit/LoopWorkspace
-            BRANCH=dev
+            BRANCH=g7
             FIXED_SHA=$LOOP_DEV_TESTED_SHA
             LOOPCONFIGOVERRIDE_VALID=1
             break
